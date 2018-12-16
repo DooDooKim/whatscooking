@@ -5,7 +5,7 @@ import tensorflow as tf
 from pandas import DataFrame, Series
 from sklearn.preprocessing import LabelBinarizer
 
-#parameters
+#parameters 
 learning_rate = 0.0001
 in_num = 300
 #minmaxscaler for normalization
