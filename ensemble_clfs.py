@@ -6,7 +6,7 @@ from pandas import DataFrame, Series
 from sklearn.preprocessing import LabelBinarizer
 
 #parameters
-learning_rate = 0.0003
+learning_rate = 0.0001
 in_num = 300
 #minmaxscaler for normalization
 def MinMaxScaler(data):
